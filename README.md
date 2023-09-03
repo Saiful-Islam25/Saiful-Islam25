@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful-islam25" alt="saiful-islam25" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intilegence**
 
 - 📫 How to reach me **saifulislamsaif9099@gmail.com**
 
